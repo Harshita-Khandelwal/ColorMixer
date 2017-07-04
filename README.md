@@ -1,2 +1,3 @@
 # ColorMixer
-Its a small desktop application for mixing colors.
+Its a basic desktop application for mixing colors.
+Its a demo of Java AWT and event listeners.
